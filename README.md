@@ -19,17 +19,17 @@ Players control Soha by using the left and right arrow keys to move her horizont
 ## Sample Playthroughs
 You can watch the following playthroughs to get a sense of the gameplay:
 
-- **Winning Playthrough**: [Watch Video](playthrough/winning.mp4)
-- **Losing Playthrough (Caught by Red Beam)**: [Watch Video](playthrough/losing1.mp4)
-- **Losing Playthrough (Depleted Body Fuel)**: [Watch Video](playthrough/losing2.mp4)
+- **[Winning Playthrough](https://drive.google.com/file/d/14_fKoOK1A-X1gGwm3OUu0i7j6mtQB7z9/view?usp=drive_link)**
+- **[Losing Playthrough](https://drive.google.com/file/d/1UXb3R8-dekj0JICHfdsJk8eis271so7v/view?usp=drive_link) (Caught by Red Beam)**
+- **[Losing Playthrough](https://drive.google.com/file/d/1nZ1jCF4QodVES5gsqL_tnCQikdIXhMD-/view?usp=drive_link) (Depleted Body Fuel)**
 
 ## How to Run
 
-1. **Install Processing 3**:  
+1. **Install Processing**:  
    Download and install Processing from the official site: [Processing](https://processing.org/download/).
 
 2. **Download the Repository**:  
-   - Clone or download this repository from GitHub.  
+   - Clone or download this repository.  
    - If downloading as a ZIP file, extract the contents to your desired folder.
 
 3. **Open the Game File**:  
