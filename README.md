@@ -4,7 +4,7 @@
 ![Game Screenshot](images/Screenshots.png)
 
 ## Project Background
-*Surviving Uni* is my final project for the **CS-UH 1001 Introduction to Computer Science** course at **New York University Abu Dhabi** during the **Fall 2022 semester**. The gameplay is inspired by the classic arcade game *Pink Panther Jewel Heist*.
+The gameplay is inspired by the classic arcade game *Pink Panther Jewel Heist*.
 
 ## Game Overview
 *Surviving Uni* is a fast-paced, pixel-style game developed in **Processing Python**. Players help the main character, Soha, navigate the academic challenges of university life by outrunning obstacles and collecting power-ups, all while managing time and resources.
