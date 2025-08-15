@@ -25,15 +25,18 @@ You can watch the following playthroughs to get a sense of the gameplay:
 
 ## How to Run
 
-1. **Install Processing**:  
-   Download and install Processing 3.5.4 from the official site: [Processing](https://processing.org/download/).
+1. **Install Processing**:
+   - Download and install Processing 3.5.4 from the official site: [Processing](https://processing.org/download/).
+   - Install the Python version of Processing.
+   - Install the "minim" library in Processing. 
 
-2. **Download the Repository**:  
+3. **Download the Repository**:  
    - Clone or download this repository.  
    - If downloading as a ZIP file, extract the contents to your desired folder.
+   - Ensure that the top-level folder (the one containing all the game files) is called `Surviving_Uni`.
 
-3. **Open the Game File**:  
-   Open Processing, and then open the `.pyde` file from the downloaded repository within Processing.
+4. **Open the Game File**:  
+   Open the `Surviving_Uni.pyde` file from the downloaded repository.
 
-4. **Run the Game**:  
+5. **Run the Game**:  
    Once the game file is open in Processing, click the "Run" button (or press `Ctrl + R`) to start the game.
