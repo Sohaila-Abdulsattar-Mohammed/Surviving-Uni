@@ -26,7 +26,7 @@ You can watch the following playthroughs to get a sense of the gameplay:
 ## How to Run
 
 1. **Install Processing**:  
-   Download and install Processing from the official site: [Processing](https://processing.org/download/).
+   Download and install Processing 3.5.4 from the official site: [Processing](https://processing.org/download/).
 
 2. **Download the Repository**:  
    - Clone or download this repository.  
